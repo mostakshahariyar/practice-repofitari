@@ -12,12 +12,10 @@ body{
 }
 #header1{
 	color: rgba(126, 255, 6, 0.616);
-	background-color: transparent;
 	margin-left: 10px;	
 }
 #header2{
 	color: rgb(0, 250, 0);
-	background-color: transparent;
 	margin-left: 10px;
 }
 .menu{
@@ -54,11 +52,10 @@ body{
 .title{
 	text-align: center;
 	color: yellow;
-	
 	margin-top: inherit;
 	font-weight: 550;
 
 }
 .button{
-	border: 3px solid ;
+	border: 3px solid;
 }
