@@ -145,3 +145,24 @@ body{
 	color: black;
 	text-decoration: none;
 }
+.Number-4{
+	margin-top: 220px;
+}
+.number-image{
+	width: 100%;
+}
+.number-text-4{
+	font-family: 'Pacifico', cursive;
+	font-weight: 800;
+	font-size: 85px;
+	color: orange;
+	margin-top: -650px;
+	text-align: center;
+}
+.number-simple-text-4{
+	color: white;
+}
+.number-simple-text-4{
+	margin-top: -90px;
+	text-align: center;
+}
