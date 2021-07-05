@@ -41,3 +41,24 @@ body{
 .menu button{
 	float: right;
 }
+.sub-menu{
+	text-align: center;
+}
+.title-headline{
+	font-family: 'Pacifico', cursive;
+	font-weight: 700;
+	font-size: 90px;
+	color: rgba(88, 88, 245, 0.822);
+	margin-bottom: inherit;
+}
+.title{
+	text-align: center;
+	color: yellow;
+	
+	margin-top: inherit;
+	font-weight: 550;
+
+}
+.button{
+	border: 3px solid ;
+}
