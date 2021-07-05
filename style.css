@@ -122,6 +122,26 @@ body{
 	margin-top: 75px;
 }
 .Number-3{
-	margin-top: -550px;
-	padding-left: 70%;
+	margin-top: -650px;
+	padding-left: 60%;
+}
+.number-heder-text{
+	font-family: 'Pacifico', cursive;
+	font-weight: 800;
+	font-size: 85px;
+	color: orange;
+}
+.number-text{
+	color: white;
+}
+.number-text-3{
+	color: white;
+	font-size: 25px;
+	
+}
+.number-border{
+	border: 10px solid orange;
+	background-color: orange;
+	color: black;
+	text-decoration: none;
 }
